@@ -1,16 +1,16 @@
-  <a>
-    <img width="256" src="[https://raw.githubusercontent.com/EMPLOYEZ/design/main/Logo.png]"/>
-  </a>
-
+<div align="center">
+  <img width="512" src="https://raw.githubusercontent.com/EMPLOYEZ/design/main/Logo.png"/>
+  
   <h1 align="center">EMPLOYEZ</h1>
 
   <p align="center">
     EMPLOYEZ - Mitarbeiterverwaltungsprogramm
   </p>
 
+  <a>
+    <img width="256" src="https://github.com/EMPLOYEZ/design/blob/main/IconPng.png"/>
+  </a>
 </div>
-
-<br>
 
 ## Was ist EMPLOYEZ?
 
