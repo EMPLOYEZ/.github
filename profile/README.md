@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="512" src="https://raw.githubusercontent.com/EMPLOYEZ/design/main/Logo.png"/>
+  <img width="512" src="https://raw.githubusercontent.com/EMPLOYEZ/design/main/Logos/Logo.png"/>
   
   <h1 align="center">EMPLOYEZ</h1>
 
@@ -8,7 +8,7 @@
   </p>
 
   <a>
-    <img width="256" src="https://github.com/EMPLOYEZ/design/blob/main/IconPng.png"/>
+    <img width="256" src="https://raw.githubusercontent.com/EMPLOYEZ/design/main/Logos/IconPng.png"/>
   </a>
 </div>
 
