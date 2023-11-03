@@ -1,4 +1,5 @@
-<!-- PROJECT SHIELDS -->
+<a name="readme-top"></a>
+<!-- PROJEKT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -6,11 +7,11 @@
 
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJEKT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/EMPLOYEZ/EMPLOYEZ/">
-    <img src="https://raw.githubusercontent.com/EMPLOYEZ/design/main/Logos/Logo.png" alt="Logo" width="512">
+    <img src="https://raw.githubusercontent.com/EMPLOYEZ/design/main/Logos/Logo.png" alt="Logo" width="600">
   </a>
 
 <h3 align="center">EMPLOYEZ</h3>
@@ -18,45 +19,45 @@
   <p align="center">
     EMPLOYEZ - Mitarbeiterverwaltungsprogramm
     <br />
-    <a href="https://github.com/EMPLOYEZ/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/EMPLOYEZ/"><strong>Zur Dokumentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/EMPLOYEZ/EMPLOYEZ/">View Demo</a>
+    <a href="https://github.com/EMPLOYEZ/EMPLOYEZ/">Demo ansehen</a>
     ·
-    <a href="https://github.com/EMPLOYEZ/EMPLOYEZ/issues">Report Bug</a>
+    <a href="https://github.com/EMPLOYEZ/EMPLOYEZ/issues">Bug melden</a>
     ·
-    <a href="https://github.com/EMPLOYEZ/EMPLOYEZ/issues">Request Feature</a>
+    <a href="https://github.com/EMPLOYEZ/EMPLOYEZ/issues">Feature anfragen</a>
   </p>
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- INHALTSVERZEICHNIS -->
 <details>
   <summary>Inhaltsverzeichnis</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Über das Projekt</a>
+      <a href="#über-das-projekt">Über das Projekt</a>
       <ul>
-        <li><a href="#built-with">Erstellt mit</a></li>
+        <li><a href="#erstellt-mit">Erstellt mit</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Erste Schritte</a>
+      <a href="#erste-schritte">Erste Schritte</a>
       <ul>
-        <li><a href="#prerequisites">Voraussetzungen</a></li>
+        <li><a href="#voraussetzungen">Voraussetzungen</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Verwendung</a></li>
-    <li><a href="#roadmap">Projektstrukturplan</a></li>
-    <li><a href="#contact">Kontakt</a></li>
+    <li><a href="#verwendung">Verwendung</a></li>
+    <li><a href="#projektstrukturplan">Projektstrukturplan</a></li>
+    <li><a href="#kontakt">Kontakt</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- ÜBER DAS PROJEKT -->
 ## Über das Projekt
 ### Was ist EMPLOYEZ?
 EMPLOYEZ ist ein Mitarbeiterverwaltungsprogramm bestehend aus einer Personalakte, Stempeluhr, Zeiterfassung und den Zeitsummen.
@@ -69,7 +70,7 @@ EMPLOYEZ ist ein Mitarbeiterverwaltungsprogramm bestehend aus einer Personalakte
 EMPLOYEZ Projektarbeit LBS4 von Sebastian Gassner und Edin Mehmedovic
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">zurück</a>)</p>
 
 
 
@@ -84,7 +85,7 @@ EMPLOYEZ Projektarbeit LBS4 von Sebastian Gassner und Edin Mehmedovic
 
 
 
-<!-- GETTING STARTED -->
+<!-- ERSTE SCHRITTE -->
 ## Erste Schritte
 
 Folgende Schritte werden notwendig sein, damit das Projekt lokal läuft.
@@ -136,7 +137,7 @@ Framework
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- VERWENDUNG -->
 ## Verwendung
 
 Für eine Anleitung zur Verwendung des Projektes, siehe [Documentation](https://example.com)_
@@ -145,8 +146,8 @@ Für eine Anleitung zur Verwendung des Projektes, siehe [Documentation](https://
 
 
 
-<!-- ROADMAP -->
-## Projektsturkturplan
+<!-- PROJEKTSTRUKTURPLAN -->
+## Projektstrukturplan
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -158,7 +159,7 @@ Siehe [open issues](https://github.com/EMPLOYEZ/EMPLOYEZ/issues) für eine Aufli
 <p align="right">(<a href="#readme-top">zurück</a>)</p>
 
 
-<!-- CONTACT -->
+<!-- KONTAKT -->
 ## Kontakt
 
 Organisations-Link: [https://github.com/EMPLOYEZ](https://github.com/EMPLOYEZ)
@@ -166,7 +167,7 @@ Organisations-Link: [https://github.com/EMPLOYEZ](https://github.com/EMPLOYEZ)
 <p align="right">(<a href="#readme-top">zurück</a>)</p>
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- LINKS & BILDER -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
