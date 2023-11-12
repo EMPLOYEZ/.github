@@ -67,7 +67,7 @@ EMPLOYEZ ist ein Mitarbeiterverwaltungsprogramm bestehend aus einer Personalakte
 ![Zeiterfassung][product-screenshot3]
 ![Zeitsummen][product-screenshot4]
 
-EMPLOYEZ Projektarbeit LBS4 von Sebastian Gassner und Edin Mehmedovic
+EMPLOYEZ Projektarbeit LBS4
 
 
 <p align="right">(<a href="#readme-top">zurück</a>)</p>
