@@ -140,7 +140,7 @@ Framework
 <!-- VERWENDUNG -->
 ## Verwendung
 
-Für eine Anleitung zur Verwendung des Projektes, siehe [Documentation](https://example.com)_
+Für eine Anleitung zur Verwendung des Projektes, siehe [Dokumentation](https://github.com/EMPLOYEZ/documents/)
 
 <p align="right">(<a href="#readme-top">zurück</a>)</p>
 
@@ -149,12 +149,13 @@ Für eine Anleitung zur Verwendung des Projektes, siehe [Documentation](https://
 <!-- PROJEKTSTRUKTURPLAN -->
 ## Projektstrukturplan
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [X] Vorprojektphasen
+- [X] Entwicklung
+- [X] Projektmanagement
+- [X] Dokumentation
+- [X] Testing und Qualitätsmanagement
 
-Siehe [open issues](https://github.com/EMPLOYEZ/EMPLOYEZ/issues) für eine Auflistung der Phasen.
+Siehe [Issues](https://github.com/EMPLOYEZ/EMPLOYEZ/issues) für eine Auflistung der Phasen.
 
 <p align="right">(<a href="#readme-top">zurück</a>)</p>
 
