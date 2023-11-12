@@ -19,7 +19,7 @@
   <p align="center">
     EMPLOYEZ - Mitarbeiterverwaltungsprogramm
     <br />
-    <a href="https://github.com/EMPLOYEZ/"><strong>Zur Dokumentation »</strong></a>
+    <a href="https://github.com/EMPLOYEZ/documents/"><strong>Zur Dokumentation »</strong></a>
     <br />
     <br />
     <a href="https://github.com/EMPLOYEZ/EMPLOYEZ/">Demo ansehen</a>
